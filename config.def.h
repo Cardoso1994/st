@@ -5,10 +5,10 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "Cascadia Code PL:pixelsize=15:antialias=true:autohint=true";
+static char *font = "Cascadia Code PL:pixelsize=19:antialias=true:autohint=true";
 /* Spare fonts */
 static char *font2[] = {
-"CaskaydiaCove Nerd Font Mono:pixelsize=15:antialias=true:autohint=true",
+"CaskaydiaCove Nerd Font Mono:pixelsize=19:antialias=true:autohint=true",
 /*	"Hack Nerd Font Mono:pixelsize=11:antialias=true:autohint=true", */
 };
 
@@ -130,7 +130,7 @@ static const char *colorname[] = {
 /* unsigned int defaultfg = 15; */
 unsigned int defaultfg = 15;
 unsigned int defaultbg = 0;
-static unsigned int defaultcs = 48;
+static unsigned int defaultcs = 248;
 static unsigned int defaultrcs = 257;
 
 /*
